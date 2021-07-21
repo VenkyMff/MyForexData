@@ -1,0 +1,2 @@
+# MyForexData
+Data
